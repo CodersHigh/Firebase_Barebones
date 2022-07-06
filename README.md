@@ -5,6 +5,13 @@
 * Firebase의 기본적인 기능 구현을 익히는 데에 도움을 주는 Bare-bones 프로젝트입니다.
 * Firebase를 통해 **SwiftUI 기반의 간단한 온라인 게시판**을 구현합니다.
 * Firebase를 처음 활용해 보는 경우, 이 프로젝트의 코드를 살펴보면 도움이 됩니다. 
+
+
+
+https://user-images.githubusercontent.com/74223246/177436586-941d633e-6a4c-4e7b-8835-d2618ad7e0de.mp4
+
+
+
 <br/>
 
 ### Firebase란? 
